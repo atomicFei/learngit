@@ -6,3 +6,6 @@ Git is free software distributed under the GPL.
 
 
 15.08 updateĞŞ¸Ä
+.
+
+Git tracks changes.
